@@ -8,5 +8,10 @@ public class mainApp {
 	{
 		return new Date();
 	}
+	
+	public void meth1()
+	{
+		System.out.println("printing"+"abcd");
+	}
 
 }
