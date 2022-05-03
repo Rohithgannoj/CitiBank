@@ -14,6 +14,6 @@ public class mainApp {
 	}
    public void meth2()
    {
-	   
+	   System.out.println("meth2()");
    }
 }
