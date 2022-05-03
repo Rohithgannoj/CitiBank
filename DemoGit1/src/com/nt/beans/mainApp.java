@@ -16,4 +16,8 @@ public class mainApp {
    {
 	   System.out.println("meth2()");
    }
+   public void meth3()
+   {
+	   System.out.println("meth3()");
+   }
 }
