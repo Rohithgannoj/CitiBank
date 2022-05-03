@@ -20,4 +20,8 @@ public class mainApp {
    {
 	   System.out.println("meth3()");
    }
+   public void meth4()
+   {
+	   System.out.println("mainApp.meth4()");
+   }
 }
