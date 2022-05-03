@@ -12,5 +12,8 @@ public class mainApp {
 		System.out.println("printing" + 1234);
 		System.out.println("abc123");
 	}
-
+   public void meth2()
+   {
+	   
+   }
 }
