@@ -27,4 +27,10 @@ public class mainApp {
         System.out.println("Modified the method4");
 
    }
+   
+   public void meth5()
+   {
+	   F1 f=new F1();
+	   System.out.println(f.hashCode());
+   }
 }
